@@ -44,6 +44,7 @@
                     </execution>
                 </executions>
                 <configuration>
+		    <mainClass>com.ckannon.devops.HelloController</mainClass>
                     <arguments>
                         <argument>
                             --spring.config.location=file:${project.basedir}/src/test/resources/
