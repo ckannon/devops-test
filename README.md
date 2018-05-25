@@ -16,5 +16,5 @@ Update the file ./Dockerfile to be a "multi-stage" build that performs the follo
 
 - open a pull request to this repository with the required changes to ./Dockerfile
 
-The application will open port 8080 to HTTP traffic - test to make sure it works locally in your docker by going to http://localhost:<whatever local port you map>/
+The application will open port 8080 to HTTP traffic - test to make sure it works locally in your docker by going to http://localhost:8080/ (or whatever local port you map)
 
